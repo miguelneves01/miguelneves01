@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Miguel Neves
-- 👀 I’m interested in video games, web design and software in general
-- 🌱 I’m currently learning C++ and Javascript
-- 💞️ I’m not looking to collaborate currently
+- 👀 I’m interested in game dev, video games and web dev
+- 🌱 I’m currently studying software engeneering in Polithecnic Institute of Setubal.
 - 📫 My email is: miguelcresponeves@gmail.com
 
 <!---
