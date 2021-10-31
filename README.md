@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Miguel Neves
-- 👀 I’m interested in game dev, video games and web dev
 - 🌱 I’m currently studying software engeneering in Polithecnic Institute of Setubal.
 - 📫 My email is: miguelcresponeves@gmail.com
 
