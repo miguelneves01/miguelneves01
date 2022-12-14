@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Miguel Neves
-- 🌱 I’m currently studying software engeneering in Polithecnic Institute of Setubal.
-- 📫 My email is: miguelcresponeves@gmail.com
-
-<!---
-mikerules/mikerules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello World! I'm Miguel!
+- A 22 year old Portuguese.
+- 2nd year Computer Science/Software Engenieering Student. 
+- Currently working as a Java/Oracle/DB2 Backend Developer @ SIBS Forward Payment Solutions.
