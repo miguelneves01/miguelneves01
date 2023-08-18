@@ -1,3 +1,6 @@
+![Alt text](/Header.png)
+
+
 # Hello World! I'm Miguel!
 - A 22 year old Portuguese.
 - 2nd year Computer Science/Software Engenieering Student. 
