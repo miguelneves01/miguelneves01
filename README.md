@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **software architecture and system design**
 
-- 💬 Ask me about **Java, Python or SQL**
+- 💬 Ask me about **Java, Python or Backend in general**
 
 - 📫 How to reach me **miguelcresponeves@gmail.com**
 
